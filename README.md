@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 DevCharles
 2. adan
+=======
+1. DevCharles
+2. Josue
+3. melobo
+4. OscarPantoja
+>>>>>>> master
