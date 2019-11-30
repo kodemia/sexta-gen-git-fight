@@ -7,4 +7,8 @@
 6.adanmc
 =======
 6. dered
+<<<<<<< HEAD
+>>>>>>> master
+=======
+7. LobRabGar
 >>>>>>> master
