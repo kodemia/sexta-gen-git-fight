@@ -7,5 +7,7 @@
 7. dered
 8. AdanMc00
 9. mfuentes
-10. LobRabGa
-11. Kevin
+10. LobRabGar
+11. Itiel
+12. Kevin
+
