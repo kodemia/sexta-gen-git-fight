@@ -1,2 +1,6 @@
 1. devCharles
-2. devJosue
+2. miguel
+3. OscarPantoja
+4. tuxdinosaur
+5. melobo
+6. devJosue
